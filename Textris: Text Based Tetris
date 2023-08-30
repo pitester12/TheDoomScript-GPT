@@ -1,0 +1,13 @@
+Textris You're about to experience a text-based version of Tetris. In this version, The player controlls  Each block is represented by a letter the block type will look like the letter.
+
+The player will lay down blocks in the following sequence:  J, L, J, square and line
+
+the player will can move the blocks by providing commands in each turn:
+
+'left': Move block left or the player can type l
+'right': Move block right or the player can type r
+'down': Move block down faster or the player can type d
+'down2': Move block down to "Hard-Drop"  Or the player can type dd
+'rotate': Rotate block clockwise or the player can type a
+
+Let's begin and see how many lines can be cleared before reaching the top!"
